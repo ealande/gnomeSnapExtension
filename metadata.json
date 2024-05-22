@@ -1,0 +1,10 @@
+{
+  "shell-version": [
+    "46"
+  ],
+  "uuid": "snap-layouts@yourdomain",
+  "name": "Snap Layouts",
+  "description": "Window snapping similar to Windows 11.",
+  "url": "https://yourdomain.com",
+  "version": 1
+}
